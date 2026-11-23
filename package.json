@@ -33,6 +33,6 @@
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
